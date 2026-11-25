@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ricardoguillen.se//NVC series//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NVC session – Open Tiny
+BEGIN:VEVENT
+UID:nvc-2026-09-17@ricardoguillen.se
+DTSTAMP:20260607T000000Z
+DTSTART:20260917T161500Z
+DTEND:20260917T181500Z
+STATUS:CANCELLED
+SUMMARY:CANCELLED: NVC session at Open Tiny
+LOCATION:Kiezkiosk Open Tiny e.V.\, next to Treptower Straße 84\, 12059 B
+ erlin (Harzer Kiez\, Neukölln)
+DESCRIPTION:Nonviolent Communication (NVC) session with Ricardo Guillén\,
+  part of the NVC series at Open Tiny.\n\nWhen: Thursday 17 September 2026\
+ , 18:15–20:15 (the third Thursday of each month).\nWhere: Kiezkiosk Open
+  Tiny e.V.\, next to Treptower Straße 84\, 12059 Berlin (Harzer Kiez\, Ne
+ ukölln)\nLanguage: English by default. German if everyone agrees.\nCost: 
+ Free.\nGroup size: up to 12. Sign up at least 24 hours ahead to secure you
+ r seat.\nBring: a pen and a notebook.\nWho: Open to all. No prior NVC expe
+ rience needed.\n\nIt's a series\, but each session stands on its own. Come
+  to one\, more\, or all of them.\n\nDetails and registration: https://rica
+ rdoguillen.se/courses/nvc-series/
+URL:https://ricardoguillen.se/courses/nvc-series/
+END:VEVENT
+END:VCALENDAR
